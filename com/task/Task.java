@@ -1,7 +1,7 @@
 public class Task{
     
     public static void main(String [] abd) {
-        System.out.println("Task");
+        System.out.println("Task message");
     }
 
 }
